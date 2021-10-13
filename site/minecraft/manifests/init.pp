@@ -1,4 +1,4 @@
-ass minecraft (
+class minecraft (
   $url = 'https://launcher.mojang.com/v1/objects/a0d03225615ba897619220e256a266cb33a44b6b/server.jar',
   $install_dir = '/opt/minecraft'
 ){
